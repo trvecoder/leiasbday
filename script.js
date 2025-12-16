@@ -468,7 +468,7 @@ const lyricsMap = {
 
   { time: 191.56, text: "Dead" }
 ],
-"House Of Wolves":[
+"House of Wolves":[
   { time: 16.98, text: "Well, I know a thing about contrition" },
   { time: 20.18, text: "Because I got enough to spare" },
   { time: 22.46, text: "And I'll be granting your permission" },
